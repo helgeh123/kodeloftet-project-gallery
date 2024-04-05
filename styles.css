@@ -1,4 +1,6 @@
 body {
-     background-color: blue;
+     background-color: rgb(196, 196, 211);
 }
-
+header {
+  background-color: rgb(12, 90, 90);
+}
